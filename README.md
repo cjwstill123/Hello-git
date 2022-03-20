@@ -20,7 +20,7 @@ I **think** I'll use it to __format__ all of my documents from now on.
         <head>
          <title>Test</title>
         </head>
-![111](assets/111.jpg)
+![111](111.jpg)
 
 ---
 
